@@ -11,6 +11,19 @@
 		34741D5627DF1C3400E4548E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34741D5527DF1C3400E4548E /* ContentView.swift */; };
 		34741D5827DF1C5E00E4548E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34741D5727DF1C5E00E4548E /* Assets.xcassets */; };
 		34741D5B27DF1C5E00E4548E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34741D5A27DF1C5E00E4548E /* Preview Assets.xcassets */; };
+		34741D6A27DF1E1D00E4548E /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34741D6927DF1E1D00E4548E /* HeaderView.swift */; };
+		34741D6E27DF236200E4548E /* SearchBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34741D6D27DF236200E4548E /* SearchBarView.swift */; };
+		34741D7127DF27B000E4548E /* TopingButtonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34741D7027DF27B000E4548E /* TopingButtonsView.swift */; };
+		34741D7427DF2A0400E4548E /* TopingHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34741D7327DF2A0400E4548E /* TopingHeaderView.swift */; };
+		34741D7727DF2DEC00E4548E /* MainApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34741D7627DF2DEC00E4548E /* MainApp.swift */; };
+		34741D7A27DF302800E4548E /* Favorito.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34741D7927DF302800E4548E /* Favorito.swift */; };
+		34741D7D27DF304800E4548E /* Objectos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34741D7C27DF304800E4548E /* Objectos.swift */; };
+		34741D8027DF306900E4548E /* ContaUser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34741D7F27DF306900E4548E /* ContaUser.swift */; };
+		34741D8327DF31D600E4548E /* HeadilineTexte.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34741D8227DF31D600E4548E /* HeadilineTexte.swift */; };
+		34741D8727DF346100E4548E /* arte3DModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34741D8627DF346100E4548E /* arte3DModel.swift */; };
+		34741D8A27DF34F700E4548E /* arteData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34741D8927DF34F700E4548E /* arteData.swift */; };
+		34741D8D27DF362400E4548E /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34741D8C27DF362400E4548E /* CardView.swift */; };
+		34741D9027DF39E200E4548E /* ListCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34741D8F27DF39E200E4548E /* ListCardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +33,19 @@
 		34741D5727DF1C5E00E4548E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		34741D5A27DF1C5E00E4548E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		34741D5C27DF1C5E00E4548E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		34741D6927DF1E1D00E4548E /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		34741D6D27DF236200E4548E /* SearchBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarView.swift; sourceTree = "<group>"; };
+		34741D7027DF27B000E4548E /* TopingButtonsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopingButtonsView.swift; sourceTree = "<group>"; };
+		34741D7327DF2A0400E4548E /* TopingHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopingHeaderView.swift; sourceTree = "<group>"; };
+		34741D7627DF2DEC00E4548E /* MainApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainApp.swift; sourceTree = "<group>"; };
+		34741D7927DF302800E4548E /* Favorito.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favorito.swift; sourceTree = "<group>"; };
+		34741D7C27DF304800E4548E /* Objectos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Objectos.swift; sourceTree = "<group>"; };
+		34741D7F27DF306900E4548E /* ContaUser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContaUser.swift; sourceTree = "<group>"; };
+		34741D8227DF31D600E4548E /* HeadilineTexte.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadilineTexte.swift; sourceTree = "<group>"; };
+		34741D8627DF346100E4548E /* arte3DModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arte3DModel.swift; sourceTree = "<group>"; };
+		34741D8927DF34F700E4548E /* arteData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arteData.swift; sourceTree = "<group>"; };
+		34741D8C27DF362400E4548E /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		34741D8F27DF39E200E4548E /* ListCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListCardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +78,10 @@
 		34741D5227DF1C3300E4548E /* Artes 3D */ = {
 			isa = PBXGroup;
 			children = (
-				34741D5327DF1C3400E4548E /* Artes_3DApp.swift */,
-				34741D5527DF1C3400E4548E /* ContentView.swift */,
+				34741D6827DF1CFD00E4548E /* View */,
+				34741D6627DF1CE500E4548E /* Model */,
+				34741D6527DF1CDD00E4548E /* Data */,
+				34741D6327DF1CD000E4548E /* App */,
 				34741D5727DF1C5E00E4548E /* Assets.xcassets */,
 				34741D5C27DF1C5E00E4548E /* Info.plist */,
 				34741D5927DF1C5E00E4548E /* Preview Content */,
@@ -67,6 +95,49 @@
 				34741D5A27DF1C5E00E4548E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		34741D6327DF1CD000E4548E /* App */ = {
+			isa = PBXGroup;
+			children = (
+				34741D5327DF1C3400E4548E /* Artes_3DApp.swift */,
+				34741D5527DF1C3400E4548E /* ContentView.swift */,
+				34741D7627DF2DEC00E4548E /* MainApp.swift */,
+				34741D7927DF302800E4548E /* Favorito.swift */,
+				34741D7C27DF304800E4548E /* Objectos.swift */,
+				34741D7F27DF306900E4548E /* ContaUser.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		34741D6527DF1CDD00E4548E /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				34741D8927DF34F700E4548E /* arteData.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		34741D6627DF1CE500E4548E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				34741D8627DF346100E4548E /* arte3DModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		34741D6827DF1CFD00E4548E /* View */ = {
+			isa = PBXGroup;
+			children = (
+				34741D6927DF1E1D00E4548E /* HeaderView.swift */,
+				34741D6D27DF236200E4548E /* SearchBarView.swift */,
+				34741D7027DF27B000E4548E /* TopingButtonsView.swift */,
+				34741D7327DF2A0400E4548E /* TopingHeaderView.swift */,
+				34741D8227DF31D600E4548E /* HeadilineTexte.swift */,
+				34741D8C27DF362400E4548E /* CardView.swift */,
+				34741D8F27DF39E200E4548E /* ListCardView.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,7 +209,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34741D8D27DF362400E4548E /* CardView.swift in Sources */,
+				34741D8327DF31D600E4548E /* HeadilineTexte.swift in Sources */,
+				34741D7427DF2A0400E4548E /* TopingHeaderView.swift in Sources */,
+				34741D8A27DF34F700E4548E /* arteData.swift in Sources */,
+				34741D7127DF27B000E4548E /* TopingButtonsView.swift in Sources */,
+				34741D7727DF2DEC00E4548E /* MainApp.swift in Sources */,
+				34741D7A27DF302800E4548E /* Favorito.swift in Sources */,
+				34741D8027DF306900E4548E /* ContaUser.swift in Sources */,
+				34741D7D27DF304800E4548E /* Objectos.swift in Sources */,
+				34741D6E27DF236200E4548E /* SearchBarView.swift in Sources */,
+				34741D9027DF39E200E4548E /* ListCardView.swift in Sources */,
+				34741D8727DF346100E4548E /* arte3DModel.swift in Sources */,
 				34741D5627DF1C3400E4548E /* ContentView.swift in Sources */,
+				34741D6A27DF1E1D00E4548E /* HeaderView.swift in Sources */,
 				34741D5427DF1C3400E4548E /* Artes_3DApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
